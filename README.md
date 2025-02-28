@@ -30,7 +30,7 @@ Enter your OTP password when prompted.
 
 ```bash
 module load OpenMPI/4.1.5-GCC-12.3.0
-mpic++ -parallel.cc -o my_program
+mpic++ -parallel.cpp -o my_program
 ```  
 
 ### 4. **Submit the Job**  
