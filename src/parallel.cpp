@@ -12,8 +12,8 @@
 #include <string>
 #include <filesystem>
 #include <mpi.h>
-#include<cstring>
-#include<math.h>
+#include <cstring>
+#include <math.h>
 #include <unordered_set>
 
 
@@ -857,7 +857,7 @@ int main(int argc, char* argv[]) {
                 // Synchronize all processes
                 MPI_Barrier(MPI_COMM_WORLD);
 
-                               if (rank == info.second) {
+                if (rank == info.second) {
                     int chromatic_color = 0;
                     std::set<int> colors;
                     for (auto color : coloration) {

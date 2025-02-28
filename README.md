@@ -1,6 +1,4 @@
-# **ChromaticNumber**
-
-## **User Guide**
+# **User Guide**
 
 ### 1. **Connect to VEGA**
 To connect to the VEGA cluster, use SSH with your username and OTP password:
