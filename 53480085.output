@@ -1,0 +1,401 @@
+File: ../instances/myciel3.col
+Initial LB: 2
+Initial UB: 4
+Master rank break
+Master size 17
+ CN  :  4 --> filename = ../instances/myciel3.col
+ COLORING [  4  0  4  5  0  4  1  1  1  1  0  ]  
+exec time : 1194
+====================================================================================================
+File: ../instances/myciel4.col
+Initial LB: 2
+Initial UB: 5
+Master rank break
+Master size 16
+ CN  :  5 --> filename = ../instances/myciel4.col
+ COLORING [  5  1  0  0  6  2  2  2  0  2  5  5  1  5  1  5  2  1  2  1  2  1  0  ]  
+exec time : 172
+====================================================================================================
+File: ../instances/myciel5.col
+Initial LB: 2
+Initial UB: 6
+Master rank break
+Master size 19
+ CN  :  6 --> filename = ../instances/myciel5.col
+ COLORING [  6  4  0  4  1  6  1  6  4  1  0  6  1  6  0  1  1  4  6  4  6  0  3  2  4  2  4  1  6  1  2  2  2  2  2  4  2  4  1  1  1  6  2  6  2  2  0  ]  
+exec time : 700041
+====================================================================================================
+Thread 2 is returning 5 5
+Thread 12 is returning 5 5
+Thread 3 is returning 5 5
+Thread 13 is returning 5 5
+File: ../instances/queen5_5.col
+Initial LB: 5
+Initial UB: 5
+Thread 0 is returning 5 5
+Thread 1 is returning 5 5
+Thread 4 is returning 5 5
+Thread 5 is returning 5 5
+Thread 8 is returning 5 5
+Thread 14 is returning 5 5
+Thread 9 is returning 5 5
+Thread 15 is returning 5 5
+Thread 6 is returning 5 5
+Thread 7 is returning 5 5
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 5
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 7
+====================================================================================================
+ CN  :  5 --> filename = ../instances/queen5_5.col
+ COLORING [  3  0  4  1  2  4  1  2  3  0  2  3  0  4  1  0  4  1  2  3  1  2  3  0  4  ]  
+exec time : 1
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 7
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 1
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 1
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 5
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 1
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+Thread 10 is returning 5 5
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 2
+====================================================================================================
+Thread 11 is returning 5 5
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 2
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/queen5_5.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+File: ../instances/jean.col
+Initial LB: 4
+Initial UB: 10
+Master rank break
+Master size 31
+ CN  :  10 --> filename = ../instances/jean.col
+ COLORING [  0  2  1  2  3  6  0  0  3  1  0  0  0  1  2  2  2  1  7  4  0  5  0  0  2  0  3  2  3  3  1  0  0  4  1  0  0  6  6  4  0  2  1  6  1  3  6  0  0  6  0  0  1  0  4  1  3  5  1  2  1  1  5  3  0  5  1  8  6  1  0  1  7  0  3  0  4  2  9  0  ]  
+exec time : 700029
+====================================================================================================
+File: ../instances/queen6_6.col
+Initial LB: 4
+Initial UB: 9
+Master rank break
+Master size 28
+ CN  :  7 --> filename = ../instances/queen6_6.col
+ COLORING [  4  0  3  6  1  5  6  5  2  4  0  3  2  3  0  1  6  4  1  6  4  2  5  0  5  2  1  0  3  6  3  4  6  5  2  1  ]
+exec time : 700030
+====================================================================================================
+File: ../instances/huck.col
+Initial LB: 5
+Initial UB: 11
+Master rank break
+Master size 34
+ CN  :  11 --> filename = ../instances/huck.col
+ COLORING [  3  5  1  1  1  3  0  0  5  4  4  5  5  6  1  1  1  2  7  4  5  4  2  1  6  0  5  0  7  3  4  2  0  6  0  1  0  7  7  8  2  2  0  1  2  6  6  1  2  9  1  3  2  1  0  8  3  2  10  6  0  4  0  8  2  1  7  9  6  1  0  1  4  4  ]  
+exec time : 700027
+====================================================================================================
+Thread 8 is returning 11 11
+Thread 4 is returning 11 11
+Thread 6 is returning 11 11
+Thread 2 is returning 11 11
+Thread 12 is returning 11 11
+File: ../instances/david.col
+Initial LB: 11
+Initial UB: 11
+Thread 0 is returning 11 11
+Thread 9 is returning 11 11
+Thread 5 is returning 11 11
+Thread 7 is returning 11 11
+Thread 3 is returning 11 11
+Thread 13 is returning 11 11
+Thread 1 is returning 11 11
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 14
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 41
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 32
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 14
+====================================================================================================
+ CN  :  11 --> filename = ../instances/david.col
+ COLORING [  3  2  1  6  1  1  7  1  1  1  4  4  3  2  1  6  2  1  1  1  3  2  4  2  1  1  4  1  7  2  2  8  6  5  6  1  5  1  1  5  1  5  6  1  6  7  2  1  3  7  3  6  7  4  10  1  2  4  4  0  2  1  1  1  1  4  1  2  5  1  2  5  8  9  1  3  3  2  5  5  8  1  0  9  2  1  3  ]  
+exec time : 2
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 41
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 2
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 32
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 23
+====================================================================================================
+Thread 10 is returning 11 11
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 23
+====================================================================================================
+Thread 11 is returning 11 11
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 36
+====================================================================================================
+Thread 14 is returning 11 11
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 6
+====================================================================================================
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 36
+====================================================================================================
+Thread 15 is returning 11 11
+ CN  :  0 --> filename = ../instances/david.col
+ COLORING [  ]  
+exec time : 6
+====================================================================================================
+Thread 4 is returning 8 8
+Thread 6 is returning 8 8
+File: ../instances/miles250.col
+Initial LB: 8
+Initial UB: 8
+Thread 0 is returning 8 8
+Thread 5 is returning 8 8
+Thread 7 is returning 8 8
+Thread 1 is returning 8 8
+Thread 2 is returning 8 8
+Thread 3 is returning 8 8
+Thread 8 is returning 8 8
+Thread 12 is returning 8 8
+Thread 9 is returning 8 8
+Thread 13 is returning 8 8
+Thread 10 is returning 8 8
+Thread 11 is returning 8 8
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 4
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 5
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+Thread 14 is returning 8 8
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  8 --> filename = ../instances/miles250.col
+ COLORING [  2  3  1  1  0  4  0  2  5  4  2  1  2  1  0  0  0  2  3  0  0  4  2  7  4  5  2  1  1  5  0  2  1  0  0  3  0  6  2  3  0  0  1  2  1  3  1  1  1  1  0  3  1  2  0  1  4  6  1  0  0  0  2  0  0  6  1  4  2  1  1  0  4  1  1  3  3  1  0  1  3  2  0  1  3  5  1  1  3  2  5  2  0  5  2  0  2  1  2  0  2  3  3  3  0  3  0  1  0  3  2  0  2  3  4  3  3  1  1  1  1  2  0  4  3  5  4  0  ]  
+exec time : 2
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 4
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 5
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+Thread 15 is returning 8 8
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 2
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+ CN  :  0 --> filename = ../instances/miles250.col
+ COLORING [  ]  
+exec time : 0
+====================================================================================================
+File: ../instances/queen7_7.col
+Initial LB: 4
+Initial UB: 11
+Master rank break
+Master size 34
+ CN  :  11 --> filename = ../instances/queen7_7.col
+ COLORING [  4  5  6  3  0  8  7  8  3  0  4  7  6  5  5  7  1  2  3  0  4  10  9  3  0  4  1  2  7  6  4  1  2  3  0  0  1  2  6  5  7  8  2  8  5  7  1  4  6  ]  
+exec time : 700012
+====================================================================================================
+File: ../instances/anna.col
+Initial LB: 7
+Initial UB: 11
+Master rank break
+Master size 34
+ CN  :  11 --> filename = ../instances/anna.col
+ COLORING [  0  0  0  1  0  5  2  1  1  1  2  1  2  0  1  2  0  0  4  6  2  1  1  0  1  4  1  2  1  0  1  0  7  1  1  1  0  0  1  1  1  0  1  1  4  2  0  0  0  1  4  2  1  0  1  0  2  1  2  0  0  2  1  3  0  0  1  1  1  1  0  4  5  3  1  5  3  1  3  2  9  1  6  1  8  0  1  1  2  2  10  4  0  4  2  2  1  0  8  3  6  0  3  3  1  0  1  6  0  0  0  0  1  1  3  6  1  3  0  1  1  0  2  1  0  0  2  0  0  4  1  2  2  0  4  7  2  5  ]  
+exec time : 700032
+====================================================================================================
+File: ../instances/games120.col
+Initial LB: 3
+Initial UB: 9
+Master rank break
+Master size 28
+ CN  :  9 --> filename = ../instances/games120.col
+ COLORING [  1  2  3  0  5  1  4  6  4  0  5  4  2  0  2  3  3  1  1  3  7  7  0  4  2  0  2  0  2  0  1  1  2  1  3  2  3  1  1  7  6  5  6  1  6  2  1  3  1  4  3  0  0  3  7  2  4  2  4  3  2  0  5  3  0  0  4  1  5  0  4  4  3  4  5  3  1  0  2  4  5  3  8  4  3  5  4  0  2  8  6  5  3  2  1  6  2  3  7  2  0  7  2  1  0  0  3  5  5  4  0  6  0  2  4  3  5  6  1  1  ]  
+exec time : 700016
+====================================================================================================
+File: ../instances/queen8_8.col
+Initial LB: 4
+Initial UB: 12
+Master rank break
+Master size 37
+ CN  :  12 --> filename = ../instances/queen8_8.col
+ COLORING [  7  2  3  8  0  6  5  9  10  6  0  5  7  3  4  1  5  1  2  3  4  0  6  7  6  7  4  0  1  2  3  5  4  0  1  2  3  5  7  6  2  8  7  4  6  1  9  0  9  3  5  1  2  7  8  10  8  10  9  6  5  11  0  4  ]  
+exec time : 700037
+====================================================================================================
+File: ../instances/queen9_9.col
+Initial LB: 4
+Initial UB: 13
+Master rank break
+Master size 40
+ CN  :  13 --> filename = ../instances/queen9_9.col
+ COLORING [  6  10  11  2  5  8  7  4  9  2  4  1  7  6  0  10  8  3  5  6  3  0  4  7  11  2  1  9  8  4  1  2  3  5  6  0  12  5  2  3  0  4  8  1  7  7  9  0  4  1  2  3  5  8  11  1  10  8  3  5  9  7  2  8  2  6  5  7  1  0  10  12  1  0  7  9  8  6  12  11  5  ]  
+exec time : 700061
+====================================================================================================
+File: ../instances/myciel7.col
+Initial LB: 2
+Initial UB: 8
+Master rank break
+Master size 25
+ CN  :  8 --> filename = ../instances/myciel7.col
+ COLORING [  3  0  3  0  4  3  0  3  0  4  1  3  0  3  0  4  3  0  3  0  4  2  1  1  1  1  1  1  3  4  3  5  4  1  3  4  3  5  4  3  4  3  5  4  5  1  0  3  0  3  0  4  3  0  3  0  4  2  3  0  3  0  4  3  0  3  0  4  2  6  3  4  3  5  4  3  4  3  5  4  5  3  4  3  5  4  3  4  3  5  4  5  5  0  1  2  2  2  2  2  3  4  3  6  4  1  2  2  2  2  2  3  4  3  7  4  2  1  1  1  1  1  1  3  4  3  5  4  1  2  2  2  2  2  3  4  3  5  4  2  1  2  2  2  2  2  2  3  4  3  6  4  2  2  2  2  2  2  2  2  2  2  2  2  6  2  2  2  2  2  3  4  3  5  4  2  2  2  2  2  2  2  2  2  2  2  2  5  2  1  0  ]  
+exec time : 700026
+====================================================================================================
+File: ../instances/queen8_12.col
+Initial LB: 5
+Initial UB: 14
+Master rank break
+Master size 43
+ CN  :  14 --> filename = ../instances/queen8_12.col
+ COLORING [  12  0  1  11  5  6  7  2  4  9  3  8  2  11  8  6  4  3  5  0  1  7  10  13  5  9  2  3  10  0  1  7  11  4  8  6  10  8  7  5  1  2  3  4  0  6  9  11  11  2  6  8  3  4  0  1  9  10  5  7  8  4  9  10  6  1  2  3  5  0  11  12  1  13  12  0  2  5  10  11  7  8  6  3  3  6  5  9  11  7  4  8  12  13  2  10  ]  
+exec time : 700057
+====================================================================================================
+File: ../instances/queen10_10.col
+Initial LB: 4
+Initial UB: 14
+Master rank break
+Master size 43
+ CN  :  14 --> filename = ../instances/queen10_10.col
+ COLORING [  7  2  3  13  8  5  12  1  11  10  11  8  5  6  9  0  10  2  12  13  12  9  4  8  11  2  7  3  5  0  8  5  1  2  3  4  0  6  7  9  9  7  8  4  0  1  2  5  3  6  6  4  0  1  2  3  9  7  8  5  3  12  10  5  4  6  1  0  9  11  5  6  7  0  1  10  3  11  4  8  13  11  9  3  5  12  6  8  10  7  4  1  2  11  10  7  13  9  0  12  ]  
+exec time : 700009
+====================================================================================================
+File: ../instances/homer.col
+Initial LB: 10
+Initial UB: 13
+Master rank break
+Master size 40
+ CN  :  13 --> filename = ../instances/homer.col
+ COLORING [  3  5  0  1  0  0  0  1  1  2  3  0  0  0  3  0  2  0  1  0  0  0  0  1  0  0  0  1  1  1  0  2  0  8  4  1  0  1  1  2  0  4  0  8  0  6  0  0  4  4  1  1  6  0  0  0  1  1  0  2  5  2  0  3  0  3  2  2  6  0  1  1  0  2  0  6  1  5  0  0  0  1  1  1  2  1  0  2  0  0  0  0  0  0  4  2  1  1  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  8  3  0  5  0  5  0  0  0  6  0  0  0  0  0  0  0  0  0  0  0  8  0  2  0  1  1  0  1  1  0  0  2  1  1  1  3  0  1  0  7  5  0  0  1  2  5  3  1  1  6  6  0  0  2  1  3  9  1  0  1  1  2  1  7  1  0  1  1  2  0  1  2  1  2  9  0  0  1  0  2  0  2  1  0  1  0  0  3  3  3  0  0  0  0  0  0  1  1  0  0  1  0  0  3  2  0  0  3  0  0  0  0  2  0  0  0  1  0  0  2  0  0  0  0  2  3  0  0  0  1  0  3  4  0  1  0  1  0  2  0  2  0  0  0  4  2  0  1  0  2  0  0  2  1  0  0  0  1  0  3  0  0  5  0  0  2  1  0  0  0  2  1  0  0  0  0  2  3  0  0  1  0  7  0  0  0  0  0  1  0  0  0  0  1  0  0  0  1  2  10  1  2  4  0  0  2  1  0  0  0  0  0  1  0  0  2  1  2  0  0  9  8  0  0  1  1  0  0  0  0  4  0  2  6  7  1  0  0  11  1  0  2  4  1  1  0  1  1  3  0  2  0  4  5  7  0  1  1  0  1  0  0  0  3  0  7  12  0  0  2  2  1  6  0  0  1  4  2  1  1  0  2  4  0  0  9  0  0  0  0  1  0  1  8  0  7  2  0  1  0  4  5  0  1  1  0  0  3  0  2  7  4  2  1  1  0  0  0  4  0  0  0  0  0  0  0  1  0  2  1  3  0  2  2  0  1  3  0  1  0  0  1  0  0  0  0  0  0  0  0  1  0  0  2  0  0  2  1  0  0  0  1  1  1  5  1  0  1  2  0  10  0  0  1  2  0  1  7  1  0  1  0  6  7  0  1  2  8  1  1  0  0  2  4  0  9  3  0  0  0  0  2  0  1  1  0  2  0  0  1  0  6  1  5  0  1  0  1  1  0  1  0  0  1  0  0  3  6  0  1  7  1  0  3  4  0  1  0  3  7  8  1  1  5  0  9  0  ]  
+exec time : 700032
+====================================================================================================
+File: ../instances/queen11_11.col
+Initial LB: 5
+Initial UB: 15
+Master rank break
+Master size 46
+ CN  :  15 --> filename = ../instances/queen11_11.col
+ COLORING [  5  3  12  11  7  9  8  13  2  1  10  13  11  7  6  10  5  1  9  12  8  3  10  4  8  1  2  6  0  7  11  9  12  1  12  0  3  8  4  9  6  5  7  2  9  8  13  7  1  2  3  0  4  6  5  7  6  2  5  3  0  4  8  1  10  11  11  9  10  0  4  1  2  5  7  3  8  0  14  5  2  6  3  10  4  9  11  7  3  13  1  8  5  7  6  2  10  0  9  4  7  11  10  0  8  5  1  6  12  13  12  2  14  4  9  10  7  3  0  5  6  ]  
+exec time : 700004
+====================================================================================================
+File: ../instances/mulsol.i.1.col
+Initial LB: 16
+Initial UB: 49
+Master rank break
+Master size 148
+slurmstepd: error: *** STEP 53480085.0 ON cn0328 CANCELLED AT 2025-02-28T21:49:57 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 53480085 ON cn0328 CANCELLED AT 2025-02-28T21:49:57 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
